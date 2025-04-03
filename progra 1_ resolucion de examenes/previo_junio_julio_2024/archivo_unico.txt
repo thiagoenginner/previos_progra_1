@@ -1,0 +1,8 @@
+1234;Juan Pérez;M
+2345;María López;M
+3456;Carlos Gómez;N
+4567;Ana Fernández;M
+5678;Luis Martínez;T
+5678;Luis Martínez;T
+6789;Pedro Ramírez;N
+7890;Laura Acosta;T
